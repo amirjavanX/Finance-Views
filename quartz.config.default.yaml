@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: amirjavanx.github.io/Finance-Views
+  baseUrl: https://amirjavanx.github.io/Finance-Views
   ignorePatterns:
     - private
     - templates
